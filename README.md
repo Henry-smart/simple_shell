@@ -1,1 +1,1 @@
-This repository contains projects on simple shell interpreter.
+This repository contains team projects on simple shell interpreter.
